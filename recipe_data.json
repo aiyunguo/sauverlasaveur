@@ -1,0 +1,65 @@
+{
+  "r01": {
+    "Name": "Zucchini Slice",
+    "Category": "dairy, veg",
+    "Ingredients": "Eggs, Flour, Zucchini, Cheese",
+    "Imglink": "https://img.taste.com.au/WDTI88v1/w720-h480-cfill-q80/taste/2016/11/zucchini-slice-10160-1.jpeg",
+    "Weblink": "https://www.taste.com.au/recipes/zucchini-slice/eb7eed59-5f53-4f6f-bfb5-9b7e3f81a702?r=quickeasy/biccuul7"
+  },
+  "r02": {
+    "Name": "Air Fryer Crispy Cauliflower",
+    "Category": "dairy, veg",
+    "Ingredients": "Cheese, yoghurt, eggs, cauliflower",
+    "Imglink": "https://www.simplyrecipes.com/wp-content/uploads/2020/02/Crispy-Cauliflower-Bites-LEAD-4-1463x2048.jpg",
+    "Weblink": "https://www.simplyrecipes.com/recipes/air_fryer_crispy_cauliflower/"
+  },
+  "r03": {
+    "Name": "Banana Bread",
+    "Category": "dairy",
+    "Ingredients": "banana, flour, egg, yoghurt, sugar",
+    "Imglink": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2013/05/best-easy-banana-bread-recipe-2.jpg",
+    "Weblink": "https://sallysbakingaddiction.com/best-banana-bread-recipe/"
+  },
+  "r04": {
+    "Name": "Grilled Cheese Sandwich",
+    "Category": "dairy",
+    "Ingredients": "cheese, bread, butter",
+    "Imglink": "https://www.simplyrecipes.com/wp-content/uploads/2020/01/Grilled-Cheese-LEAD-11.jpg",
+    "Weblink": "https://www.simplyrecipes.com/recipes/how_to_make_a_grilled_cheese_sandwich/"
+  },
+  "r05": {
+    "Name": "Shaved Brussels Sprouts with Lemon",
+    "Category": "veg",
+    "Ingredients": "brussel sprouts, lemon, garlic",
+    "Imglink": "https://www.simplyrecipes.com/wp-content/uploads/2006/11/hashed-brussels-sprouts-horiz-b-1600.jpg",
+    "Weblink": "https://www.simplyrecipes.com/recipes/hashed_brussels_sprouts_with_lemon/"
+  },
+  "r06": {
+    "Name": "One-Pot Chicken and Rice Soup",
+    "Category": "meat, veg",
+    "Ingredients": "chicken, carrot, onion, rice",
+    "Imglink": "https://www.simplyrecipes.com/wp-content/uploads/2017/09/2017-10-23-ChickenRiceSoup-6.jpg",
+    "Weblink": "https://www.simplyrecipes.com/recipes/one_pot_chicken_and_rice_soup/"
+  },
+  "r07": {
+    "Name": "Hamburger and Macaroni",
+    "Category": "meat, veg",
+    "Ingredients": "macaroni, beef, onion, tomato",
+    "Imglink": "https://www.simplyrecipes.com/wp-content/uploads/2013/12/hamburger-macaroni-vertical-b-1200.jpg",
+    "Weblink": "https://www.simplyrecipes.com/recipes/hamburger_and_macaroni/"
+  },
+  "r08": {
+    "Name": "Pepperoni Pizza Penne Pasta",
+    "Category": "dairy, meat",
+    "Ingredients": "pasta, pepperoni, cheese, butter",
+    "Imglink": "https://www.simplyrecipes.com/wp-content/uploads/2018/09/Pizza-Penne-Pasta-LEAD-VERTICAL.jpg",
+    "Weblink": "https://www.simplyrecipes.com/recipes/pepperoni_pizza_penne_pasta/"
+  },
+  "r09": {
+    "Name": "Waldorf Salad",
+    "Category": "veg, fruits",
+    "Ingredients": "yoghurt, lemon, apple, grapes, lettuce",
+    "Imglink": "https://www.simplyrecipes.com/wp-content/uploads/2007/10/waldorf-salad-vertical-a3-1500.jpg",
+    "Weblink": ""
+  }
+}

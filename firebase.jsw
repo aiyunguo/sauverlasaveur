@@ -1,0 +1,40 @@
+// code in backend/firebaseModule.jsw
+// Firebase App (the core Firebase SDK) is always required and
+// must be listed before other Firebase SDKs
+import * as firebase from 'firebase/app';
+import 'firebase/firestore';
+
+const firebaseConfig = {
+ 	apiKey: "AIzaSyAup9R-lzTgyPiVzy44_-C9_qil-P6qHBQ",
+    authDomain: "savourfood-d1f9b.firebaseapp.com",
+    projectId: "savourfood-d1f9b",
+    storageBucket: "savourfood-d1f9b.appspot.com",
+    messagingSenderId: "669474413218",
+    appId: "1:669474413218:web:f23a7c41bd89160c2a15fb",
+    measurementId: "G-989BNQ1DGL"
+};
+
+firebase.initializeApp(firebaseConfig);
+
+const db = firebase.firestore();
+
+export async function query() {
+	return new Promise((resolve, reject) => {
+		db.collection("menu")
+		//.where("ingredients.contain(selectedIngred)")
+			.get()
+			.then(function (querySnapshot) {
+				let recipeData = []
+				
+				querySnapshot.forEach(function(doc) {
+					recipeData.push(doc.data())
+				})
+
+				if(recipeData.length === 0) {
+					reject(`No ${type} data found`);
+				} else{
+					resolve(recipeData);
+				}
+			})
+	})
+}
