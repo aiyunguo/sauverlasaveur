@@ -1,4 +1,4 @@
-# sauverlasaveur
+# SavourFood / Sauver la Saveur
 
 ## Inspiration
 As university students, we try to save money by cooking our own meals. However, sometimes that means a random aubergine or tomato in the refrigerator goes unused and gets thrown away. Besides wasting money on such food that eventually gets thrown away, we add to the problem of food waste. We were surprised to find out that the average household in Canada wastes 140kg of edible food a year. To help everyone else play their part in reducing food waste, we created savourfood (sauver la saveur en français), a web application that inspires users with delicious recipes that make use of the simplest ingredients. 
